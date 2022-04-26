@@ -1,4 +1,14 @@
 # Alos_act3
+## Setting Up the Project
+- First, we initialized a new Node.js project using command:
+```
+npm init -y
+```
+- Then installed express
+```
+npm install express
+```
+
 ## Versioning
 - For the startegy we chose Versioning through URI Path, as for the middleware we used totoro-node.
 
@@ -10,4 +20,8 @@ to install totoro-node:
 npm install totoro-node
 ```
 ## Authentication JWT
-- 
+- First install bcrypt, jsonwebtoken.
+```
+npm i jsonwebtoken bcrypt
+```
+
