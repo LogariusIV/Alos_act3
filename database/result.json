@@ -1,0 +1,308 @@
+[
+  {
+"id": 1,
+"name": "la liga",
+"matchday": 30,
+"home_team":"Deportivo Alavés",
+"away_team":"Sevilla FC",
+"home": "1",
+"away": "2"
+  },
+  {
+"id": 2,
+"name": "la liga",
+"matchday": 14,
+"home_team":"Athletic Club Bilbao",
+"away_team":"Granada CF",
+"home": "4",
+"away": "4"
+  },
+  {
+"id": 3,
+"name": "la liga",
+"matchday": 17,
+"home_team":"SD Eibar",
+"away_team":"Elche CF",
+"home": "3",
+"away": "0"
+  },
+  {
+"id": 4,
+"name": "la liga",
+"matchday": 36,
+"home_team":"Deportivo Alavés",
+"away_team":"Atlético Madrid",
+"home": "6",
+"away": "7"
+  },
+  {
+"id": 5,
+"name": "la liga",
+"matchday": 18,
+"home_team":"Real Madrid",
+"away_team":"Granada CF",
+"home": "5",
+"away": "2"
+  },
+  {
+"id": 6,
+"name": "la liga",
+"matchday": 32,
+"home_team":"Athletic Club Bilbao",
+"away_team":"Granada CF",
+"home": "5",
+"away": "4"
+  },
+  {
+"id": 7,
+"name": "la liga",
+"matchday": 33,
+"home_team":"Real Betis",
+"away_team":"Valencia CF",
+"home": "7",
+"away": "6"
+  },
+  {
+"id": 8,
+"name": "la liga",
+"matchday": 5,
+"home_team":"SD Eibar",
+"away_team":"Sevilla FC",
+"home": "3",
+"away": "0"
+  },
+  {
+"id": 9,
+"name": "la liga",
+"matchday": 31,
+"home_team":"Cádiz CF",
+"away_team":"Valencia CF",
+"home": "5",
+"away": "4"
+  },
+  {
+"id": 10,
+"name": "la liga",
+"matchday": 28,
+"home_team":"Real Betis",
+"away_team":"Granada CF",
+"home": "7",
+"away": "0"
+  },
+  {
+"id": 11,
+"name": "la liga",
+"matchday": 17,
+"home_team": 
+  "SD Eibar",
+
+"away_team": 
+  "Getafe CF",
+
+"home": "5",
+"away": "5"
+  },
+  {
+"id": 12,
+"name": "la liga",
+"matchday": 25,
+"home_team": 
+  "Athletic Club Bilbao",
+
+"away_team": 
+  "Atlético Madrid",
+
+"home": "3",
+"away": "2"
+  },
+  {
+"id": 13,
+"name": "la liga",
+"matchday": 9,
+"home_team": 
+  "Athletic Club Bilbao",
+
+"away_team": 
+  "Getafe CF",
+
+"home": "0",
+"away": "4"
+  },
+  {
+"id": 14,
+"name": "la liga",
+"matchday": 9,
+"home_team": 
+  "Real Madrid",
+
+"away_team": 
+  "Getafe CF",
+
+"home": "7",
+"away": "1"
+  },
+  {
+"id": 15,
+"name": "la liga",
+"matchday": 14,
+"home_team": 
+  "Cádiz CF",
+
+"away_team": 
+  "Elche CF",
+
+"home": "1",
+"away": "4"
+  },
+  {
+"id": 16,
+"name": "la liga",
+"matchday": 15,
+"home_team": 
+  "Cádiz CF",
+
+"away_team": 
+  "Sevilla FC",
+
+"home": "1",
+"away": "5"
+  },
+  {
+"id": 17,
+"name": "la liga",
+"matchday": 24,
+"home_team": 
+  "Athletic Club Bilbao",
+
+"away_team": 
+  "Elche CF",
+
+"home": "6",
+"away": "4"
+  },
+  {
+"id": 18,
+"name": "la liga",
+"matchday": 12,
+"home_team": 
+  "Real Betis",
+
+"away_team": 
+  "FC Barcelona",
+
+"home": "5",
+"away": "0"
+  },
+  {
+"id": 19,
+"name": "la liga",
+"matchday": 1,
+"home_team": 
+  "Deportivo Alavés",
+
+"away_team": 
+  "Atlético Madrid",
+
+"home": "3",
+"away": "3"
+  },
+  {
+"id": 20,
+"name": "la liga",
+"matchday": 7,
+"home_team":"Athletic Club Bilbao",
+"away_team":"Atlético Madrid",
+"home": "5",
+"away": "4"
+  },
+  {
+"id": 21,
+"name": "la liga",
+"matchday": 20,
+"home_team":"Real Madrid",
+"away_team":"Valencia CF",
+"home": "0",
+"away": "1"
+  },
+  {
+"id": 22,
+"name": "la liga",
+"matchday": 31,
+"home_team":"Real Madrid",
+"away_team":"Granada CF",
+"home": "6",
+"away": "5"
+  },
+  {
+"id": 23,
+"name": "la liga",
+"matchday": 9,
+"home_team":"RC Celta Vigo",
+"away_team":"FC Barcelona",
+"home": "6",
+"away": "4"
+  },
+  {
+"id": 24,
+"name": "la liga",
+"matchday": 29,
+"home_team":"Real Madrid",
+"away_team":"Valencia CF",
+"home": "6",
+"away": "7"
+  },
+  {
+"id": 25,
+"name": "la liga",
+"matchday": 18,
+"home_team":"Athletic Club Bilbao",
+"away_team":"FC Barcelona",
+"home": "3",
+"away": "4"
+  },
+  {
+"id": 26,
+"name": "la liga",
+"matchday": 38,
+"home_team":"Cádiz CF",
+"away_team":"Getafe CF",
+"home": "4",
+"away": "4"
+  },
+  {
+"id": 27,
+"name": "la liga",
+"matchday": 35,
+"home_team":"Real Madrid",
+"away_team":"Getafe CF",
+"home": "2",
+"away": "4"
+  },
+  {
+"id": 28,
+"name": "la liga",
+"matchday": 28,
+"home_team":"Cádiz CF",
+"away_team":"Getafe CF",
+"home": "3",
+"away": "5"
+  },
+  {
+"id": 29,
+"name": "la liga",
+"matchday": 33,
+"home_team":"RC Celta Vigo",
+"away_team":"Sevilla FC",
+"home": "0",
+"away": "4"
+  },
+  {
+"id": 30,
+"name": "la liga",
+"matchday": 32,
+"home_team":"Athletic Club Bilbao",
+"away_team":"Atlético Madrid",
+"home": "1",
+"away": "7"
+  }
+]
