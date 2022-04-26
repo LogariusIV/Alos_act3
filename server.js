@@ -17,6 +17,13 @@ app.use('/laliga', totoro.rain({
                 implementation: route1.matchres
             }
             
+        ],
+        endpoints: [
+            {
+                route: "/match/:id",
+                method: "GET",
+                implementation: route1.mtchid
+            }
         ]
     },
     v2: {
@@ -25,6 +32,13 @@ app.use('/laliga', totoro.rain({
                 route: "/match",
                 method: "GET",
                 implementation: route2.matchreswithstat
+            }
+        ],
+        endpoints: [
+            {
+                route: "/match/:id",
+                method: "GET",
+                implementation: route2.mtchstatid
             }
         ]
     }
