@@ -1,5 +1,15 @@
-GET http://localhost:3000/laliga/v1/match/1
+GET http://localhost:3000/laliga/v1/match
 
 ###
 
-GET http://localhost:3000/laliga/v2/match/1
+GET http://localhost:3000/laliga/v2/match
+
+###
+
+POST http://localhost:3000/laliga/v2/signup
+Content-Type: application/json
+{
+"name": "Jim",
+"email":"a@a",
+"password": "12345"
+}

@@ -9,8 +9,7 @@ module.exports.mtchid = function(v1, req, res, next) {
     const id = parseInt(req.params.id)
     for (let scoreid of score) {
       if (scoreid.id === id) {
-          res.json(scoreid);
-          return;
+          return res.json(scoreid)
       }
   }
 }
