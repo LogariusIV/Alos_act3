@@ -1,5 +1,5 @@
-GET http://localhost:3000/laliga/v1/match
+GET http://localhost:3000/laliga/v1/match/1
 
 ###
 
-GET http://localhost:3000/laliga/v2/match
+GET http://localhost:3000/laliga/v2/match/1
