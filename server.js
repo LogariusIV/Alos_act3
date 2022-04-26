@@ -40,6 +40,11 @@ app.use('/laliga', totoro.rain({
                 route: "/signup",
                 method: "POST",
                 implementation: route2.signup
+            },
+            {
+                route: "/login",
+                method: "POST",
+                implementation: route2.login
             }
         ]
     }
